@@ -69,6 +69,7 @@
 * [Real-World Reasoning: Toward Scalable, Uncertain Spatiotemporal, Contextual and Causal Inference (Atlantis Thinking Machines)](https://www.amazon.com/Real-World-Reasoning-Uncertain-Spatiotemporal-Contextual/dp/9491216104)
 * [Building Minds with Patterns](https://www.amazon.com/dp/1980362661)
 * [Non-Axiomatic Logic: A Model of Intelligent Reasoning](https://www.amazon.com/Non-Axiomatic-Logic-Model-Intelligent-Reasoning-ebook/dp/B00DBLZGEU)
+* [Daydreaming in Humans and Machines: A Computer Model of the Stream of Thought](https://www.amazon.com/gp/product/1478137266/)
 
 ## Scientific Papers
 
@@ -81,6 +82,10 @@
 * [Building Safer AGI by introducing Artificial Stupidity](https://arxiv.org/abs/1808.03644)
 * [Journal of Artificial General Intelligence](https://content.sciendo.com/view/journals/jagi/jagi-overview.xml)
 * [The superinteligent will: Motivation and instrumental rationality in advanced artificial agents](https://nickbostrom.com/superintelligentwill.pdf)
+* [AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence](https://arxiv.org/abs/1905.10985)
+* [Towards a framework for the evolution of artificial general intelligence](https://arxiv.org/abs/1903.10410)
+* [Neural Consciousness Flow](https://arxiv.org/abs/1905.13049)
+* [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://www.sciencedirect.com/science/article/pii/S2352154618302122)
 
 ## Podcasts
 
@@ -91,7 +96,7 @@
 
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
 * [Knowledge-Based AI: Cognitive Systems
-by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
+  by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
 * [The Society of Mind by Marvin Minsky](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/lecture-1-introduction/)
 
 ## Videos
@@ -116,6 +121,13 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [NNAISENSE](https://nnaisense.com/) - Leverages the 25-year proven track record of one of the leading research teams in AI to build large-scale neural network solutions for superhuman perception and intelligent automation, with the ultimate goal of marketing general-purpose Artificial Intelligences.
 * [vicarious](https://www.vicarious.com/) - Developing artificial general intelligence for robots.
 * [BICA Society - Biologically Inspired Cognitive Architectures Society](http://bicasociety.org/)
+* [ANSA](https://github.com/patham9/ANSNA) - Adaptive Neuro-Symbolic Network Agent. Takes the Assumption of Insufficient Knowledge and Resources (AIKR) as fundamental working assumption.
+* [Daydreamer](https://github.com/eriktmueller/daydreamer) - Daydreaming in Humans and Machines: A Computer Model of the Stream of Thought
+* [Neural Consciousness Flow](https://github.com/netpaladinx/NeuCFlow) - Explores reasoning with the notion of attentive awareness from a cognitive perspective, formulated in the form of attentive message passing on graphs. Achieves SOTA on Knowledge Base Completion (KBC) tasks.
+* [Self-Organising RNNs](https://github.com/Saran-nns/PySORN_0.1) - Prospects of Biologically Plausible Artificial Brain Circuits Solving General Intelligence Tasks at the Imminence of Chaos
+* [Limbic System](https://github.com/SoyGema/Limbic_System) - Based on the paper _Neuroscience-Inspired Artificial Intelligence_ (Hassabis 2018) to develop AI advacement through brain reverse engineering and bio inspiration.
+* [Compositional Attention Networks for Machine Reasoning](https://cs.stanford.edu/people/dorarad/mac/index.html) - The MAC network is an end-to-end differentiable model that performs an explicit multi-step reasoning process.
+* [Automatically Composing Representation Transformations as a Means for Generalization](https://sites.google.com/view/compositionalrecursivelearner/home) - Exploits compositional structures of task distributions to learn algorithmic procedures over representation transformations as a means for extrapolation in compositional problems.
 
 ## Forums / News / Social
 
@@ -205,4 +217,5 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 =======
 
 To the extent possible under law, Răzvan Flavius Panda has waived all copyright and related or neighboring rights to this work.
->>>>>>> upstream/master
+
+> > > > > > > upstream/master
