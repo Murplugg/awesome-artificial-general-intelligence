@@ -3,6 +3,7 @@
 [Artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) (AGI) is the intelligence of a machine that could successfully perform any intellectual task that a human being can. It is a primary goal of some artificial intelligence research and a common topic in science fiction and future studies. Artificial general intelligence is also referred to as "strong AI", "full AI" or as the ability of a machine to perform "general intelligent action".
 
 ## Contents
+
 * [General Introductions](#general-introductions)
 * [Instant communication chat channels](#instant-communication-chat-channels)
 * [Articles](#articles)
@@ -22,6 +23,7 @@
 * [More resources](#more-resources)
 
 ## General Introductions
+
 * [Wikipedia - Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 * [Wikipedia - History of Artificial Intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
 * [Scholarpedia - Artificial General Intelligence](http://www.scholarpedia.org/article/Artificial_General_Intelligence)
@@ -30,11 +32,13 @@
 * [Mapping the Landscape of Human-Level Artificial General Intelligence](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2322)
 
 ## Instant communication chat channels
+
 * [Gitter](https://gitter.im/artificial-general-intelligence/Lobby)
 * [Discord](https://discord.gg/6hGWSNA)
 * [##AGI IRC channel on freenode](https://webchat.freenode.net/?channels=%23%23agi)
 
 ## Articles
+
 * Wait But Why - Artificial Intelligence Revolution [Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), [Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
 * [Positively shaping the development of artificial intelligence](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/)
 * [Superintelligence - The idea that eats smart people](http://idlewords.com/talks/superintelligence.htm)
@@ -42,6 +46,7 @@
 * [Neuralink and the Brain’s Magical Future](https://waitbutwhy.com/2017/04/neuralink.html)
 
 ## Books
+
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
 * [On Intelligence](https://www.amazon.com/gp/product/B003J4VE5Y/)
 * [The Society of Mind](https://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135/)
@@ -63,8 +68,10 @@
 * [AGI Revolution: An Inside View of the Rise of Artificial General Intelligence](https://www.amazon.com/AGI-Revolution-Artificial-General-Intelligence-ebook/dp/B01JLFUUWM)
 * [Real-World Reasoning: Toward Scalable, Uncertain Spatiotemporal, Contextual and Causal Inference (Atlantis Thinking Machines)](https://www.amazon.com/Real-World-Reasoning-Uncertain-Spatiotemporal-Contextual/dp/9491216104)
 * [Building Minds with Patterns](https://www.amazon.com/dp/1980362661)
+* [Non-Axiomatic Logic: A Model of Intelligent Reasoning](https://www.amazon.com/Non-Axiomatic-Logic-Model-Intelligent-Reasoning-ebook/dp/B00DBLZGEU)
 
 ## Scientific Papers
+
 * [A Collection of Definitions of Intelligence](https://arxiv.org/abs/0706.3639)
 * [Universal Intelligence: A Definition of Machine Intelligence](https://arxiv.org/abs/0712.3329)
 * [A Framework for Searching for General Artificial Intelligence](https://arxiv.org/abs/1611.00685)
@@ -76,19 +83,23 @@
 * [The superinteligent will: Motivation and instrumental rationality in advanced artificial agents](https://nickbostrom.com/superintelligentwill.pdf)
 
 ## Podcasts
+
 * [Concerning AI](https://concerning.ai/)
 * [Lex Fridman](https://lexfridman.com/ai/) - The Artificial Intelligence (AI) podcast hosts accessible, big-picture conversations at MIT and beyond about the nature of intelligence with some of the most interesting people in the world thinking about AI from a variety of perspectives including machine learning, robotics, neuroscience, philosophy, psychology, economics, physics, mathematics, cognitive science, software engineering and more.
 
 ## Courses
+
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
 * [Knowledge-Based AI: Cognitive Systems
 by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
 * [The Society of Mind by Marvin Minsky](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/lecture-1-introduction/)
 
 ## Videos
+
 * [aitube.io](https://aitube.io/categories/agi/) - Organizing the Internet’s information on A.I. (Artificial Intelligence) through crowdsourcing! It is an open source project where people can submit videos from the web or upload their own videos.
 
 ## Organizations / Projects
+
 * [OpenAI](https://openai.com/) - Discovering and enacting the path to safe artificial general intelligence.
 * [Neuralink](https://www.neuralink.com/) - Developing ultra high bandwidth brain-machine interfaces to connect humans and computers.
 * [DeepMind](https://deepmind.com/) - Solve intelligence. Use it to make the world a better place.
@@ -107,23 +118,38 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [BICA Society - Biologically Inspired Cognitive Architectures Society](http://bicasociety.org/)
 
 ## Forums / News / Social
+
 * [AI StackExchange AGI and Strong AI tags](https://ai.stackexchange.com/questions/tagged/agi+or+strong-ai)
 * [Reddit AGI](https://www.reddit.com/r/agi/)
 * [Reddit Control Problem](https://www.reddit.com/r/ControlProblem/)
 * [Facebook AGI Group](https://www.facebook.com/groups/propBitDev/)
 * [Facebook Model-Free Methods for Artificial General Intelligence (MFM-AGI)](https://www.facebook.com/groups/model.free.methods.for.agi/)
 * [Facebook Strong Artificial Intelligence Group](https://www.facebook.com/groups/strongartificialintelligence/)
-* [Facebook Cognitive Architectures Group](https://www.facebook.com/CognitiveArchitectures/)
+* [Facebook Cognitive Architecture Group](https://www.facebook.com/groups/CognitiveArchitecture/)
+* [Facebook 2nd Cognitive Architecture Group](https://www.facebook.com/groups/742342316139586/)
+* [Facebook AGI-Theory Group](https://www.facebook.com/groups/agitheory/)
+* [Facebook Real AGI Group](https://www.facebook.com/groups/RealAGI/)
+* [Facebook Artificial Cognition Group](https://www.facebook.com/groups/722892624534381/)
+* [Facebook Coding Artificial Minds Group](https://www.facebook.com/groups/CodingArtificialMinds/)
+* [Facebook Strong AI - No BS Group](https://www.facebook.com/groups/StrongAInoBS/)
+* [Facebook Artificial General Intelligence Group](https://www.facebook.com/groups/1310787108966565/)
+* [Facebook The Future of Artificial Intelligence Group](https://www.facebook.com/groups/futurofai/)
+* [Facebook Active Inference Study Group](https://www.facebook.com/groups/1517633221685192/)
+* [Facebook Oscillating Networks for AI Group](https://www.facebook.com/groups/2120059834926785/)
+* [Facebook Machine Reasoning Group](https://www.facebook.com/groups/DeepLearn/)
 * [LinkedIn AGI Group](https://www.linkedin.com/groups/1084997/)
 * [Google AGI Group](https://groups.google.com/forum/#!forum/artificial-general-intelligence)
 
 ## Competitions
+
 * [General AI Challenge by GoodAI](https://www.general-ai-challenge.org/)
 
 ## Conferences
+
 * [Conference series on Artificial General Intelligence](http://agi-conference.org/)
 
 ## Movies
+
 * [Ex Machina](http://www.imdb.com/title/tt0470752/)
 * [Her](http://www.imdb.com/title/tt1798709/)
 * [I, Robot](http://www.imdb.com/title/tt0343818/)
@@ -140,13 +166,15 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [The Billion Dollar Brain](https://www.imdb.com/title/tt0061405/)
 * [Bicentennial Man](https://www.imdb.com/title/tt0182789/)
 * [Virus](https://www.imdb.com/title/tt0120458/)
-* [Terminator: The Sarah Connor Chronicles](https://www.imdb.com/title/tt0851851/)
 
 ## TV Shows
+
 * [Humans](https://www.imdb.com/title/tt4122068)
 * [Westworld](https://www.imdb.com/title/tt0475784/)
+* [Terminator: The Sarah Connor Chronicles](https://www.imdb.com/title/tt0851851/)
 
 ## Anime
+
 * [Chobits](https://myanimelist.net/anime/59/Chobits)
 * [Dimension W](https://myanimelist.net/anime/31163/Dimension_W)
 * [Ghost in the Shell: Stand Alone Complex](https://myanimelist.net/anime/467/Ghost_in_the_Shell__Stand_Alone_Complex)
@@ -156,11 +184,13 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [Time of Eve](https://myanimelist.net/anime/7465/Eve_no_Jikan_Movie)
 
 ## Education Plans
+
 * [Suggested Education for Future AGI Researchers](https://cis.temple.edu/~wangp/Writing/AGI-Curriculum.html)
 * [AGI Curriculum](http://goertzel.org/agi-curriculum/)
 * [Marcus' AI Recommendation Page](http://www.hutter1.net/ai/introref.htm)
 
 ## More resources
+
 * [AGI Society](http://www.agi-society.org/resources/)
 * [Linas Vepstas](https://linas.org/agi.html)
 
@@ -171,3 +201,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+<<<<<<< HEAD
+=======
+
+To the extent possible under law, Răzvan Flavius Panda has waived all copyright and related or neighboring rights to this work.
+>>>>>>> upstream/master
