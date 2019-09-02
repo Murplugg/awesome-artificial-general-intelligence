@@ -85,7 +85,11 @@
 * [AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence](https://arxiv.org/abs/1905.10985)
 * [Towards a framework for the evolution of artificial general intelligence](https://arxiv.org/abs/1903.10410)
 * [Neural Consciousness Flow](https://arxiv.org/abs/1905.13049)
+* [Human-like machine thinking: Language guided imagination](https://arxiv.org/abs/1905.07562)
 * [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://www.sciencedirect.com/science/article/pii/S2352154618302122)
+* [Reconciling deep learning with symbolic artificial intelligence: representing objects and relations](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
+* [An Explicitly Relational Neural Network Architecture](https://arxiv.org/abs/1905.10307)
+* [The neural and cognitive architecture for learning from a small sample](https://www.sciencedirect.com/science/article/pii/S0959438818301077)
 
 ## Podcasts
 
@@ -124,9 +128,10 @@
 * [ANSA](https://github.com/patham9/ANSNA) - Adaptive Neuro-Symbolic Network Agent. Takes the Assumption of Insufficient Knowledge and Resources (AIKR) as fundamental working assumption.
 * [Daydreamer](https://github.com/eriktmueller/daydreamer) - Daydreaming in Humans and Machines: A Computer Model of the Stream of Thought
 * [Neural Consciousness Flow](https://github.com/netpaladinx/NeuCFlow) - Explores reasoning with the notion of attentive awareness from a cognitive perspective, formulated in the form of attentive message passing on graphs. Achieves SOTA on Knowledge Base Completion (KBC) tasks.
-* [Self-Organising RNNs](https://github.com/Saran-nns/PySORN_0.1) - Prospects of Biologically Plausible Artificial Brain Circuits Solving General Intelligence Tasks at the Imminence of Chaos
+* [PySORN](https://github.com/Saran-nns/PySORN_0.1) - Self-Organizing RNNs. Prospects of Biologically Plausible Artificial Brain Circuits Solving General Intelligence Tasks at the Imminence of Chaos
 * [Limbic System](https://github.com/SoyGema/Limbic_System) - Based on the paper _Neuroscience-Inspired Artificial Intelligence_ (Hassabis 2018) to develop AI advacement through brain reverse engineering and bio inspiration.
-* [Compositional Attention Networks for Machine Reasoning](https://cs.stanford.edu/people/dorarad/mac/index.html) - The MAC network is an end-to-end differentiable model that performs an explicit multi-step reasoning process.
+* [Compositional Attention Networks for Machine Reasoning](https://cs.stanford.edu/people/dorarad/mac/index.html) - The MAC network is an end-to-end differentiable model that performs an explicit multi-step reasoning process. Achieved a new state-of-the-art 98.9% accuracy on the CLEVR dataset for visual reasoning.
+* [OmniNet: A unified architecture for multi-modal multi-task learning](https://github.com/subho406/OmniNet) - Can be used for tasks involving a variety of modalities like image, text, videos, etc. Using this NN pre-trained on some modalities assists in learning an unseen task.
 * [Automatically Composing Representation Transformations as a Means for Generalization](https://sites.google.com/view/compositionalrecursivelearner/home) - Exploits compositional structures of task distributions to learn algorithmic procedures over representation transformations as a means for extrapolation in compositional problems.
 
 ## Forums / News / Social
@@ -213,9 +218,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-<<<<<<< HEAD
 =======
 
-To the extent possible under law, Răzvan Flavius Panda has waived all copyright and related or neighboring rights to this work.
 
-> > > > > > > upstream/master
