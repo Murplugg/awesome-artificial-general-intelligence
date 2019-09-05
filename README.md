@@ -44,6 +44,7 @@
 * [Superintelligence - The idea that eats smart people](http://idlewords.com/talks/superintelligence.htm)
 * [The Seven Deadly Sins of Predicting the Future of AI](https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/)
 * [Neuralink and the Brain’s Magical Future](https://waitbutwhy.com/2017/04/neuralink.html)
+* [One of the directions of Chinese Artificial Intelligence research: Neurocognitive](https://readyforai.com/article/one-of-the-directions-of-chinese-artificial-intelligence-research-neurocognitive/)
 
 ## Books
 
@@ -84,12 +85,22 @@
 * [The superinteligent will: Motivation and instrumental rationality in advanced artificial agents](https://nickbostrom.com/superintelligentwill.pdf)
 * [AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence](https://arxiv.org/abs/1905.10985)
 * [Towards a framework for the evolution of artificial general intelligence](https://arxiv.org/abs/1903.10410)
+* [Towards integrated neural–symbolic systems for human-level AI: Two research programs helping to bridge the gaps](https://www.sciencedirect.com/science/article/abs/pii/S2212683X15000468)
+* [Neural-Symbolic Learning and Reasoning: Contributions and Challenges](https://www.semanticscholar.org/paper/Neural-Symbolic-Learning-and-Reasoning%3A-and-Garcez-Besold/79916bf9b7fe65e3d949e8ec2de9570fe484961b)
+* [Reconciling deep learning with symbolic artificial intelligence: representing objects and relations](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
+* [Report from Dagstuhl Seminar 14381 Neural-Symbolic Learning and Reasoning](https://www.semanticscholar.org/paper/Report-from-Dagstuhl-Seminar-14381-Neural-Symbolic-Lamb-Gabbay/0e3a068bc95149b88564ed52312844ac806d8d9b)
+* [Report from Dagstuhl Seminar 17192 Human-Like Neural-Symbolic Computing](https://www.semanticscholar.org/paper/Report-from-Dagstuhl-Seminar-17192-Human-Like-Besold-Garcez/06dabbd8b0feca02e6bc3bfd96555aff961629fb)
+* [Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://www.semanticscholar.org/paper/Neural-Symbolic-Learning-and-Reasoning%3A-A-Survey-Besold-Garcez/9dbb506ded56ff4b7ab65aa92b363c0112987f10)
+* [Learning of human-like algebraic reasoning using deep feedforward neural networks](https://www.sciencedirect.com/science/article/abs/pii/S2212683X18300331)
 * [Neural Consciousness Flow](https://arxiv.org/abs/1905.13049)
 * [Human-like machine thinking: Language guided imagination](https://arxiv.org/abs/1905.07562)
 * [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://www.sciencedirect.com/science/article/pii/S2352154618302122)
-* [Reconciling deep learning with symbolic artificial intelligence: representing objects and relations](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
 * [An Explicitly Relational Neural Network Architecture](https://arxiv.org/abs/1905.10307)
 * [The neural and cognitive architecture for learning from a small sample](https://www.sciencedirect.com/science/article/pii/S0959438818301077)
+* [CIT: Integrated cognitive computing and cognitive agent technologies based cognitive architecture for human-like functionality in artificial systems](https://www.sciencedirect.com/science/article/abs/pii/S2212683X18300033)
+* [Towards artificial general intelligence with hybrid Tianjic chip architecture](https://www.nature.com/articles/s41586-019-1424-8)
+* [Knowledge Enhanced Attention for Robust Natural Language Inference](https://arxiv.org/abs/1909.00102)
+* 
 
 ## Podcasts
 
@@ -183,6 +194,8 @@
 * [The Billion Dollar Brain](https://www.imdb.com/title/tt0061405/)
 * [Bicentennial Man](https://www.imdb.com/title/tt0182789/)
 * [Virus](https://www.imdb.com/title/tt0120458/)
+* [Interstellar](https://www.imdb.com/title/tt0816692/)
+* [The Matrix](https://www.imdb.com/title/tt0133093/)
 
 ## TV Shows
 
@@ -219,5 +232,3 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 =======
-
-
