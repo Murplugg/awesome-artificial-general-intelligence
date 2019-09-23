@@ -84,6 +84,7 @@
 * [Journal of Artificial General Intelligence](https://content.sciendo.com/view/journals/jagi/jagi-overview.xml)
 * [The superinteligent will: Motivation and instrumental rationality in advanced artificial agents](https://nickbostrom.com/superintelligentwill.pdf)
 * [AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence](https://arxiv.org/abs/1905.10985)
+* [40 Years of Cognitive Architectures](https://link.springer.com/content/pdf/10.1007%2Fs10462-018-9646-y.pdf)
 * [Towards a framework for the evolution of artificial general intelligence](https://arxiv.org/abs/1903.10410)
 * [Towards integrated neural–symbolic systems for human-level AI: Two research programs helping to bridge the gaps](https://www.sciencedirect.com/science/article/abs/pii/S2212683X15000468)
 * [Neural-Symbolic Learning and Reasoning: Contributions and Challenges](https://www.semanticscholar.org/paper/Neural-Symbolic-Learning-and-Reasoning%3A-and-Garcez-Besold/79916bf9b7fe65e3d949e8ec2de9570fe484961b)
@@ -98,8 +99,13 @@
 * [An Explicitly Relational Neural Network Architecture](https://arxiv.org/abs/1905.10307)
 * [The neural and cognitive architecture for learning from a small sample](https://www.sciencedirect.com/science/article/pii/S0959438818301077)
 * [CIT: Integrated cognitive computing and cognitive agent technologies based cognitive architecture for human-like functionality in artificial systems](https://www.sciencedirect.com/science/article/abs/pii/S2212683X18300033)
+* [MLR (Memory, Learning and Recognition): A General Cognitive Model](https://arxiv.org/abs/1907.05553)
 * [Towards artificial general intelligence with hybrid Tianjic chip architecture](https://www.nature.com/articles/s41586-019-1424-8)
 * [Knowledge Enhanced Attention for Robust Natural Language Inference](https://arxiv.org/abs/1909.00102)
+* [On the necessity of abstraction](https://www.sciencedirect.com/science/article/pii/S2352154618302080)
+* [Analogues of mental simulation and imagination in deep learning](https://www.sciencedirect.com/science/article/pii/S2352154618301670)
+* [Cognitive computational neuroscience](https://www.nature.com/articles/s41593-018-0210-5)
+* [Sparse distributed representation, hierarchy, critical periods, metaplasticity: the keys to lifelong fixed-time learning and best-match retrieval](https://arxiv.org/abs/1806.04704)
 * 
 
 ## Podcasts
@@ -121,29 +127,53 @@
 ## Organizations / Projects
 
 * [OpenAI](https://openai.com/) - Discovering and enacting the path to safe artificial general intelligence.
+
 * [Neuralink](https://www.neuralink.com/) - Developing ultra high bandwidth brain-machine interfaces to connect humans and computers.
+
 * [DeepMind](https://deepmind.com/) - Solve intelligence. Use it to make the world a better place.
+
 * [Machine Intelligence Research Institute](https://intelligence.org/research-guide/) - We do foundational mathematical research to ensure smarter-than-human artificial intelligence has a positive impact.
+
 * [OpenCog](http://opencog.org/) - No challenge today is more important than creating beneficial artificial general intelligence (AGI), with broad capabilities at the human level and ultimately beyond. OpenCog is an open-source software initiative aimed at directly confronting that challenge.
+
 * [Open-NARS](https://github.com/opennars/opennars) - Open-source version of NARS, a general-purpose AI system, designed in the framework of a reasoning system.
+
 * [BasicAI](https://twitter.com/BasicAIResearch) - Mission is to do basic research aimed at human-level AI, and to ensure that human-level AI is ultimately beneficial to all.
+
 * [ProjectAGI](https://agi.io/about/) - Mission is to develop the first true AGI. We approach this by combining principles of biological cognition and machine learning to devise and empirically test novel algorithms for general intelligence. We are a distributed community.
+
 * Numenta - home of the Hierarchical Temporal Memory community:
+  
   * [Website](https://numenta.org/)
   * [Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.](https://github.com/numenta/nupic)
+
 * [Cycorp - ResearchCyc](https://www.cyc.com/researchcyc/) - Cyc is a revolutionary AI platform with human reasoning, knowledge and logic at enterprise scale.
+
 * [Constructivist AGI](http://www.ru.is/faculty/thorisson/)
+
 * [NNAISENSE](https://nnaisense.com/) - Leverages the 25-year proven track record of one of the leading research teams in AI to build large-scale neural network solutions for superhuman perception and intelligent automation, with the ultimate goal of marketing general-purpose Artificial Intelligences.
+
 * [vicarious](https://www.vicarious.com/) - Developing artificial general intelligence for robots.
+
 * [BICA Society - Biologically Inspired Cognitive Architectures Society](http://bicasociety.org/)
+
 * [ANSA](https://github.com/patham9/ANSNA) - Adaptive Neuro-Symbolic Network Agent. Takes the Assumption of Insufficient Knowledge and Resources (AIKR) as fundamental working assumption.
+
 * [Daydreamer](https://github.com/eriktmueller/daydreamer) - Daydreaming in Humans and Machines: A Computer Model of the Stream of Thought
+
 * [Neural Consciousness Flow](https://github.com/netpaladinx/NeuCFlow) - Explores reasoning with the notion of attentive awareness from a cognitive perspective, formulated in the form of attentive message passing on graphs. Achieves SOTA on Knowledge Base Completion (KBC) tasks.
+
 * [PySORN](https://github.com/Saran-nns/PySORN_0.1) - Self-Organizing RNNs. Prospects of Biologically Plausible Artificial Brain Circuits Solving General Intelligence Tasks at the Imminence of Chaos
+
 * [Limbic System](https://github.com/SoyGema/Limbic_System) - Based on the paper _Neuroscience-Inspired Artificial Intelligence_ (Hassabis 2018) to develop AI advacement through brain reverse engineering and bio inspiration.
+
 * [Compositional Attention Networks for Machine Reasoning](https://cs.stanford.edu/people/dorarad/mac/index.html) - The MAC network is an end-to-end differentiable model that performs an explicit multi-step reasoning process. Achieved a new state-of-the-art 98.9% accuracy on the CLEVR dataset for visual reasoning.
+
 * [OmniNet: A unified architecture for multi-modal multi-task learning](https://github.com/subho406/OmniNet) - Can be used for tasks involving a variety of modalities like image, text, videos, etc. Using this NN pre-trained on some modalities assists in learning an unseen task.
+
 * [Automatically Composing Representation Transformations as a Means for Generalization](https://sites.google.com/view/compositionalrecursivelearner/home) - Exploits compositional structures of task distributions to learn algorithmic procedures over representation transformations as a means for extrapolation in compositional problems.
+
+* [Sparsey](http://www.sparsey.com/Publications.html), [https://github.com/pulinagrawal/sparsey-csa](https://github.com/pulinagrawal/sparsey-csa)
 
 ## Forums / News / Social
 
@@ -196,6 +226,8 @@
 * [Virus](https://www.imdb.com/title/tt0120458/)
 * [Interstellar](https://www.imdb.com/title/tt0816692/)
 * [The Matrix](https://www.imdb.com/title/tt0133093/)
+* [Automata](https://www.imdb.com/title/tt1971325/)
+* [Red Planet](https://www.imdb.com/title/tt0199753/)
 
 ## TV Shows
 
